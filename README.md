@@ -80,3 +80,4 @@ Key preprocessing steps:
 Install all dependencies with: pip install pandas numpy scikit-learn nltk matplotlib
 
 **output:-**
+![Image](https://github.com/user-attachments/assets/144204ad-6b22-483b-9a5c-8579844882be)
